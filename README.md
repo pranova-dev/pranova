@@ -13,4 +13,5 @@ It is not affiliated with any company and is currently under early-stage develop
 
 ## 📁 Repository Structure
 /docs → design notes and ideas
+
 README.md → you're here
